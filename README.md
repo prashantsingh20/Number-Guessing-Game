@@ -62,7 +62,7 @@ const randomNum = parseInt((Math.random() * 100));
  <hr>
  <br>
 
-[![Follower](https://img.shields.io/github/followers/https://prashantsingh20?style=social)](https://github.com/prashantsingh20)
+[![Follower](https://img.shields.io/github/followers/prashantsingh20?style=social)](https://github.com/prashantsingh20)
  <hr>
  <p float="left">
 
