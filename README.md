@@ -1,4 +1,4 @@
-# Number-Guessing-Game
+# Number Guessing Game
 ## Hi, I'm Prashant 
 ## A Simple Number Guessing Game. You will be given 5 chances to guess a number...
 <br>
@@ -62,7 +62,7 @@ const randomNum = parseInt((Math.random() * 100));
  <hr>
  <br>
 
-[![Follower](https://img.shields.io/github/followers/sagar-sharma-7?style=social)](https://github.com/prashantsingh20)
+[![Follower](https://img.shields.io/github/followers/https://prashantsingh20?style=social)](https://github.com/prashantsingh20)
  <hr>
  <p float="left">
 
